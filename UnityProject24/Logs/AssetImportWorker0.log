@@ -12175,3 +12175,35 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/GetInstallerTmpFileName.cs: fa7bda723ac795b48e38504727f44981 -> d09e0b5c7a9af5874530e17ef23025f0
   custom:scripting/monoscript/fileName/AssetModificationProcessor.cs: 84d720d70e5c24b7d0630ef5cea215ce -> a602c9e59e7db185e3a0d68d986e6fef
   custom:scripting/monoscript/fileName/IsCollabProjectMigratedResponse.cs: 4c3294c6a51e6f42161d191230692016 -> af2b76c693935deee55cfcaed2aa7568
+========================================================================
+Received Import Request.
+  Time since last request: 477.635887 seconds.
+  path: Assets/prefab/obstacle course.prefab
+  artifactKey: Guid(3b36b634723ca47a4bcba98d880bf4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/obstacle course.prefab using Guid(3b36b634723ca47a4bcba98d880bf4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435a76d5f9feda3d2e8e7f1dea9fe84d') in 0.238727 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 123
+========================================================================
+Received Import Request.
+  Time since last request: 235.985239 seconds.
+  path: Assets/prefab/sculpture gallery.prefab
+  artifactKey: Guid(94490f5f0b9c74449b60609eabe2f740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/sculpture gallery.prefab using Guid(94490f5f0b9c74449b60609eabe2f740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a12dab51974376f97d9659f4bd37e3d') in 0.030280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 167.754522 seconds.
+  path: Assets/prefab/sculpture gallery 1.prefab
+  artifactKey: Guid(0338d571f5f274cc8aa69abaa709062b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/sculpture gallery 1.prefab using Guid(0338d571f5f274cc8aa69abaa709062b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebb64498dfd76139fcabe85b6ff8cc4d') in 0.079914 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 87
+========================================================================
+Received Import Request.
+  Time since last request: 276.870093 seconds.
+  path: Assets/sculpture gallery 1.prefab
+  artifactKey: Guid(2ddcbbd1cb7f84c56ab509585795dd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sculpture gallery 1.prefab using Guid(2ddcbbd1cb7f84c56ab509585795dd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879156b0ee49ca040190aaa0c83bced4') in 0.086721 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 62
