@@ -1,21 +1,7 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class AudioManager : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        using System;
+using System;
 using UnityEngine.Audio;
 using UnityEngine;
+
 public class AudioManager : MonoBehaviour
 {
    // Create a singleton of this class so only one copy of it can exist at a time
@@ -68,6 +54,4 @@ public class AudioManager : MonoBehaviour
        }
        sound.audioSource.Stop();
    }
-}
-    }
 }

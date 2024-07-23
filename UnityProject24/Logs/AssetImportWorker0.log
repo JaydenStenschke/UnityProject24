@@ -25147,3 +25147,19 @@ Received Import Request.
 Start importing Assets/scripts/AudioManager.cs using Guid(af9fb73ca4e1d4b2d8989a5bc1a4c46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199f1ed78800fd396309817d284b4553') in 0.005608 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 424.143954 seconds.
+  path: Assets/scripts/AudioManager.cs
+  artifactKey: Guid(af9fb73ca4e1d4b2d8989a5bc1a4c46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/AudioManager.cs using Guid(af9fb73ca4e1d4b2d8989a5bc1a4c46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8080db6556ab85e10c9e2468aebb675a') in 0.007489 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 24.108134 seconds.
+  path: Assets/scripts/AudioManager.cs
+  artifactKey: Guid(af9fb73ca4e1d4b2d8989a5bc1a4c46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/AudioManager.cs using Guid(af9fb73ca4e1d4b2d8989a5bc1a4c46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1caf2bfcc806dabb1e3c489b7dd57b3') in 0.003977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
