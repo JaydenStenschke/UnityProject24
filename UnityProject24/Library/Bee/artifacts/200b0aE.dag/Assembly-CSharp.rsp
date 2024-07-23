@@ -362,7 +362,10 @@
 "Assets/ObstacleCoursePack/Scripts/Rotator.cs"
 "Assets/ObstacleCoursePack/Scripts/SavePos.cs"
 "Assets/ObstacleCoursePack/Scripts/WallMovable.cs"
+"Assets/scripts/AudioManager.cs"
 "Assets/scripts/CameraControls.cs"
+"Assets/scripts/EnemyFollow.cs"
+"Assets/scripts/GameManager.cs"
 "Assets/scripts/PlayerMovement.cs"
 -langversion:9.0
 
