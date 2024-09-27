@@ -1349,7 +1349,7 @@ GameObject:
   - component: {fileID: 810392376}
   m_Layer: 0
   m_Name: EndGamePickup
-  m_TagString: Untagged
+  m_TagString: GameOver
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1453,7 +1453,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotateSpeed: 0
-  zombieTag: Zombie
+  zombieObject: {fileID: 0}
   damage: 100
 --- !u!1001 &825336643
 PrefabInstance:
@@ -1704,7 +1704,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 704628110}
-  posOffset: {x: 0, y: 1.54, z: -3.18}
+  posOffset: {x: 0, y: 1.4, z: -4.87}
   rotationSpeed: 5
   verticalClamp: 80
 --- !u!1 &1006244623
@@ -1722,7 +1722,7 @@ GameObject:
   - component: {fileID: 1006244628}
   m_Layer: 0
   m_Name: KillEnemyPickup
-  m_TagString: Untagged
+  m_TagString: KillZombie
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1826,7 +1826,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotateSpeed: 0
-  zombieTag: Zombie
+  zombieObject: {fileID: 1605782018}
   damage: 100
 --- !u!1 &1032736884
 GameObject:

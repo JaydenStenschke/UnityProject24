@@ -372,6 +372,7 @@
 "Assets/scripts/EnemyFollow.cs"
 "Assets/scripts/GameManager.cs"
 "Assets/scripts/KillEnemy.cs"
+"Assets/scripts/MenuController.cs"
 "Assets/scripts/Pickup.cs"
 "Assets/scripts/PlayerMovement.cs"
 "Assets/scripts/Sound.cs"
